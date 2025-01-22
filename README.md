@@ -54,23 +54,6 @@ To run this project locally, follow these steps:
 
 ---
 
-## PageSpeed Insights
-
-This project achieved the following scores on [PageSpeed Insights](https://pagespeed.web.dev/):
-
-- **Mobile**: 90+
-- **Desktop**: 90+
-
-### Screenshots
-
-#### Mobile Score
-![Mobile Score](path-to-screenshot-mobile.png)
-
-#### Desktop Score
-![Desktop Score](path-to-screenshot-desktop.png)
-
----
-
 ## File Structure
 
 ```
@@ -107,17 +90,3 @@ This project is deployed on **Vercel**. Visit the live site using the following 
 [Live Demo](https://homepage-of-register-karo.vercel.app/)
 
 ---
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for review.
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Let me know if you'd like any specific modifications!
